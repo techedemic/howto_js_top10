@@ -1,4 +1,4 @@
-# Google Autocomplete - 'JavaScript how to ... '
+## Google Autocomplete - 'JavaScript how to ... '
 
 1. How to call a function
 2. How to generate a random number
